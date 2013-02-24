@@ -53,7 +53,7 @@ Instruktioner för att snabbt och enkelt komma igång med github.
 
 19: git add - A
 
-20: git commit - "Jag skrev in mitt namn"
+20: git commit -m "Jag skrev in mitt namn"
 
 21: git status
 
