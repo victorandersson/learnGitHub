@@ -57,9 +57,11 @@ Instruktioner för att snabbt och enkelt komma igång med github.
 
 21: git status
 
-22: Gå till ert github-projekt och tryck på "Pull Request" och följ instruktionerna
+22: git push
 
-23: Klart!
+23: Gå till ert github-projekt och tryck på "Pull Request" och följ instruktionerna
+
+24: Klart!
 
 
 
