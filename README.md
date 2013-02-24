@@ -72,6 +72,6 @@ Klart!
 
 * git config --local user.name "JohnAlive" : Ändra username i ett lokalt gitprojekt. 
 
-* git reset -hard <commit ID>
+* git reset -hard \<commit ID\>
 
 
