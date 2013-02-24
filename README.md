@@ -33,7 +33,7 @@ För att skapa en ny nyckel körs kommandot:
 Det kommer komma lite frågor om var man vill lagra nyckel och om passphrases, det går bra att bara trycka enter.
 
 Nu ska vi kopiera in nyckel till github, vi använder oss utav kommandotalken att spara nyckeln då det är väldigt noga att inte få med ofrivilliga "new line"-tecken
-* clip < ~/ssh/id_rsa.pub
+* clip < ~/.ssh/id_rsa.pub
 
 * Account Settings -> SSH Keys -> Add SSH key -> * klistra in nyckeln i textfältet * - > Add Key -> Fyll i Github lösenord
 
@@ -66,8 +66,12 @@ Klart!
 
 
 
-##Andra andvändbara commandon.
+##Andra andvändbara kommandon.
 
-git pull : hämtar den mest uppdaterade versionen av githubprojektet som du står i. 
+* git pull : hämtar den mest uppdaterade versionen av githubprojektet som du står i. 
 
-git config --local user.name "JohnAlive" : Ändra username i ett lokalt gitprojekt. 
+* git config --local user.name "JohnAlive" : Ändra username i ett lokalt gitprojekt. 
+
+* git reset -hard <commit ID>
+
+
