@@ -1,4 +1,4 @@
-Lär dig Github!
+﻿Lär dig Github!
 ===========
 
 Instruktioner för att snabbt och enkelt komma igång med github.
@@ -67,3 +67,4 @@ Instruktioner för att snabbt och enkelt komma igång med github.
 
 git pull : hämtar den mest uppdaterade versionen av githubprojektet som du står i. 
 
+git config --local user.name "JohnAlive" : Ändra username i ett lokalt gitprojekt. 
